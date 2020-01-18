@@ -1,5 +1,12 @@
 h1{
     color: powderblue;
+    background-color: grey;
+}
+
+.footer{
+    text-align: center;
+    color: black;
+    background-color: powderblue;
 }
 
 p{
